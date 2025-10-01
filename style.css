@@ -68,8 +68,8 @@ button {
     background-color: #EC0D42;
 }
 
-.btn-primary:focus,
-.btn-secondary:focus {
+.btn-primary:active,
+.btn-secondary:active {
     background-color: #fff;
     color: #EC0D42;
     border: 3px solid #EC0D42;
